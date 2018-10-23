@@ -1,3 +1,8 @@
+# NOTE
+moved to a private gitlab : https://www-apps.univ-lehavre.fr/forge/maokai/IPCSystem
+only the one with an account will be ale to see it
+
+
 # IPCSysteme
 Projet de Systeme
 
